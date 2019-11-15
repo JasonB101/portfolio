@@ -1,0 +1,11 @@
+@media (max-width: 650px) {
+    html {
+        font-size: 52%;
+    }
+    .page-wrapper{
+        width: 100%;
+    }
+    .header-wrapper{
+        width: 100%;
+    }
+}
